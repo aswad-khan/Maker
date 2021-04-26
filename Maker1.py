@@ -467,7 +467,7 @@ def a_s():
     print ' \033[1;92mCrack Running\033[1;94m '
     time.sleep(0.5)
     print 47 * '-'
-    print '\t\033[1;92mAswad Of Facebook\033[1;94m'
+    print '\t\033[1;92mASWAD KING OF FACEBOOK\033[1;94m'
     print 47 * '-'
     
     def main(arg):
